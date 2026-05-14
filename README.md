@@ -2,10 +2,6 @@
 
 Welcome to my **IPL Analysis Dashboard** repository! This project is a comprehensive Power BI solution designed to track, analyze, and visualize Indian Premier League (IPL) data over 17 years.
 
-## 📊 Dashboard Preview
-![IPL Dashboard](link-to-your-image-here.jpg)
-*(Note: Yahan apni dashboard ki image ka link daalein)*
-
 ## 🎯 Project Overview
 Is project ka main objective ek interactive dashboard create karna tha jo IPL seasons (2008-2025) ka detailed analysis provide kare. Yeh dashboard stakeholders aur fans ko team performance aur player statistics ko aasani se samajhne mein madad karta hai.
 
