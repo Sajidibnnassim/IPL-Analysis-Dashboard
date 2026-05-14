@@ -26,6 +26,17 @@ Custom DAX was implemented to handle unique IPL scoring rules and dynamic logic:
 * **Points Table Analysis:** An interactive table displaying Win-Loss records, NR (No Results), and Ties, allowing for performance trend analysis.
 * **Responsive Design:** A clean, professional UI/UX layout optimized for stakeholders to quickly identify top-performing teams.
 
+# 🏏 IPL Analysis Dashboard (2008 - 2025)
+
+## 🏆 Dashboard Preview
+![IPL Dashboard](https://raw.githubusercontent.com/Sajidibnnassim/IPL-Analysis-Dashboard/main/IPL_Dashboard.png)
+
+---
+
+### 👤 Author
+**Sajid Shaikh** 
+
+---
 
 ---
 *If you find this project useful or have any feedback on the data modeling approach, please feel free to open an issue or reach out directly!*
